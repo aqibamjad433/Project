@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/Aqib%20Slides/5th%20semester/Projects/JAVA/Aqib/EidRecipes1/app/src/main/res/values/myColor.xml -->
+    <eat-comment/>
+    <color name="black">#000000</color>
+    <color name="counter_text_bg">#7f7f7f</color>
+    <color name="grey">#ACCCCCCC</color>
+    <color name="list_background">#d3d3d3</color>
+    <color name="list_background_pressed">#bdbdbd</color>
+    <color name="list_divider">#696969</color>
+    <color name="red">#d3d3d3</color>
+    <color name="transparent">#00FF00FF</color>
+    <color name="white">#ACFFFFFF</color>
+    <color name="whitePure">#FFFFFF</color>
+    <!-- From: file:/E:/Aqib%20Slides/5th%20semester/Projects/JAVA/Aqib/EidRecipes1/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/E:/Aqib%20Slides/5th%20semester/Projects/JAVA/Aqib/EidRecipes1/app/src/main/res/values/Integers.xml -->
+    <eat-comment/>
+    <integer name="card_flip_time_full">900</integer>
+    <integer name="card_flip_time_half">450</integer>
+    <!-- From: file:/E:/Aqib%20Slides/5th%20semester/Projects/JAVA/Aqib/EidRecipes1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="CookTime">Cook Time:</string>
+    <string name="PrepTime">Prep Time:</string>
+    <string name="Serving">Serving:</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Eid Recipes</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/E:/Aqib%20Slides/5th%20semester/Projects/JAVA/Aqib/EidRecipes1/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="MyTextViewStyle" parent="android:Theme.Light">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">40dp</item>
+    <item name="android:textColor">#000</item>
+    <item name="android:background">#FFF</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:padding">10dp</item> 
+    <item name="android:textSize">8pt</item> 
+</style>
+    <style name="checkBoxStyle" parent="android:Theme.Light">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">35dp</item>
+    <item name="android:textColor">#000</item>
+    <item name="android:typeface">monospace</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:padding">8dp</item> 
+    <item name="android:textSize">8pt</item> 
+    <item name="android:background">@drawable/background</item> 
+</style>
+</resources>
